@@ -6,6 +6,7 @@ Challenge - Beware of Monty Hall
 The host's input might be used in Bayes Theorem.  Here are the given facts:
      
 __Initial Probability you will select the prize: 1/3__
+
 __Initial Probability you will NOT select the prize is: 2/3__
 
 After the Host reveals his door your odds of picking a __wrong__ door decreases to 50%
