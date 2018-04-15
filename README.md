@@ -13,6 +13,9 @@ After the Host reveals his door your odds of picking a __wrong__ door decreases 
 
 __New Probability you will NOT select the prize is now: 1/2__
 
+Your chances of winning actually improve by 50% if the host picks the same door you initially picked.
+
+
 
 
 
